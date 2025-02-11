@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badrinath-dora" alt="badrinath-dora" /></a> </p>
 
-- 🔭 I’m currently working on **GMRIT MESS APP**
+- 🔭 I’m currently working on **Workmate**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Fast API**
 
 - 📫 How to reach me **badridora466@gmail.com**
 
